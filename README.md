@@ -13,4 +13,4 @@ The manifesto outlined here encourages
 
 ## Manifesto
 
-TBA
+To be drafted during [hackseqRNA](https://www.hackseq.com/rna) hackathon, May 22-24, 2020. Join us! :)
