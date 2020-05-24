@@ -1,4 +1,4 @@
-# The FAIR RNA Manifesto
+# The FAIR-RNA Manifesto
 
 Too many tools to choose from? Help us promote our guidelines and accompanying
 practical guide for encouraging the community to collaboratively develop fewer,
@@ -26,11 +26,22 @@ the development of fewer, higher-quality tools with broad community support.
 * [Practical guide for developers](PRACTICAL_GUIDE.md)
 * Survey for software users and developers (coming soon...)
 
+## Inspiration
+
+The following resources, listed in alphabetical order, have been a great
+inspiration for us. We fully support all of these initiatives and urge people
+to support them:
+
+* [4OSS Recommendations][4oss]
+* [FAIR Principles][fair]
+* [FAIR Principles for Research Software][fair-software]
+* [The Small Tools Manifesto for Bioinformatics][small-tools-manifesto]
+
 ## Versioning
 
 The FAIR-RNA manifesto adopts a versioning scheme that is inspired by
-[Semantic Versioning](https://semver.org/). Major, minor and patch versions
-have the following meaning:
+[Semantic Versioning][semver]. Major, minor and patch versions have the
+following meaning:
 
 * Major version change: Manifesto guidelines have been modified.
 * Minor version change: Other parts of the manifesto (e.g., the preamble or the
@@ -63,11 +74,19 @@ In alphabetical order:
 
 We would like to thank the following organizations and people:
 
-* [hackseq](https://www.hackseq.com/rna) for giving us a chance to kick-start
-  the project during the [2020 hackseqRNA event](https://www.hackseq.com/rna).
-* the [iRNA-COSI](https://irnacosi.org/) network for hosting and supporting the
-  project.
+* [hackseq][hackseq] for giving us a chance to kick-start the project during
+  the [2020 hackseqRNA event][hackseq-rna].
+* the [iRNA-COSI][irna-cosi] network for hosting and supporting the project.
 * Melissa Wilson, Arizona State University, for agreeing to help us gaining IRB
   approval for using our survey results.
 * Mihaela Zavolan, University of Basel, and Yoseph Barash, University of
   Pennsylvania, for their continued support of the project
+
+[4oss]: <https://softdev4research.github.io/recommendations/>
+[fair]: <https://www.go-fair.org/fair-principles/>
+[fair-software]: <https://content.iospress.com/articles/data-science/ds190026>
+[hackseq]: <https://www.hackseq.com>
+[hackseq]: <https://www.hackseq.com/rna>
+[irna-cosi]: <https://irnacosi.org>
+[semver]: <https://semver.org/>
+[small-tools-manifesto]: <https://github.com/pjotrp/bioinformatics>
