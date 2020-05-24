@@ -1,7 +1,5 @@
 # FAIR-RNA Practical Guide
 
-FAIR-RNA Practical Guide
-
 The following guide accompanies the FAIR-RNA manifesto, in order to provide additional inspiration on how to abide by the recommendations stated in the manifesto. It is, by nature, by no means comprehensive, nor are all cited resources necessarily FAIR-RNA compliant. Instead, the practical guide is meant to serve as an entry point for USERS, DEVELOPERS and PUBLISHERS to familiarize themselves with the concepts of FAIR-RNA. We therefore collected a wide range of popular resources that introduce, explain, implement or provide aspects of these concepts stated in the manifesto. Note that we do not endorse any of the resources and, in particular, do not wish to recommend them over others, which may not be listed here. With growing community engagement and dynamics, we hope to extend the guide in the future to highlight FAIR-RNA compliant Software and foster the development of the former.
 
 ## For DEVELOPERS
