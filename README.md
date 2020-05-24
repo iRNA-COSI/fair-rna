@@ -23,8 +23,16 @@ the development of fewer, higher-quality tools with broad community support.
 ## Resources
 
 * [Manifesto](MANIFESTO.md)
-* [Practical guide for developers](PRACTICAL_GUIDE.md)
+* [Practical guide](PRACTICAL_GUIDE.md)
 * Survey for software users and developers (coming soon...)
+* Examples of compliant software (coming soon...)
+
+## Contributing
+
+***[Endorse FAIR-RNA][endorse]!***
+
+FAIR-RNA is a community effort. The more people behind it, the more people we
+will reach. Learn [how to get involved](CONTRIBUTING.md).
 
 ## Inspiration
 
@@ -52,11 +60,6 @@ following meaning:
 > is released. Up until that point, the manifesto and other resources are to be
 > considered as beta releases.
 
-## Contributing
-
-FAIR-RNA is a community effort. The more people behind it, the more people we
-will reach. Learn [how to get involved](CONTRIBUTING.md).
-
 ## Contributors
 
 In alphabetical order:
@@ -83,6 +86,7 @@ We would like to thank the following organizations and people:
   Pennsylvania, for their continued support of the project
 
 [4oss]: <https://softdev4research.github.io/recommendations/>
+[endorse]: <https://github.com/iRNA-COSI/fair-rna/issues/4>
 [fair]: <https://www.go-fair.org/fair-principles/>
 [fair-software]: <https://content.iospress.com/articles/data-science/ds190026>
 [hackseq]: <https://www.hackseq.com>
